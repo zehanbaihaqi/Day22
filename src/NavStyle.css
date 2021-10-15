@@ -1,0 +1,12 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.nav{
+	color: pink;
+	height: 50px;
+	box-shadow:0px 3px rgba(0, 0, 0, 0.1);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
